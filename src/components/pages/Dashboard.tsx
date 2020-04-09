@@ -1,6 +1,5 @@
 import React, { Component } from 'react';
-import Grid from '@material-ui/core/Grid';
-import Paper from '@material-ui/core/Paper';
+import { Grid, Paper } from '@material-ui/core';
 
 import Tradeform from './Tradeform';
 
